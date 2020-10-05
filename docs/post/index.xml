@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 荒唐的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2020 18:36:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 19:17:42 +0800</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MyblogSc</title>
+      <link>/post/myblogSc/</link>
+      <pubDate>Mon, 05 Oct 2020 19:17:42 +0800</pubDate>
+      
+      <guid>/post/myblogSc/</guid>
+      <description>推送成功的解决方法 我使用了 hugo -d docs 的命令 GitHub索引的方法是 docs 文件，我将生成的public替换为docs。 后面的优化是，javaweb、Youtube上的hugo、和 gitpasage的深入。</description>
+    </item>
     
     <item>
       <title>Myblog</title>

@@ -3,42 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/Golang/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/myblogSc/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-05T19:17:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/myblog/</loc>
     <lastmod>2020-10-04T18:36:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-10-04T18:36:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-10-04T18:36:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/Golang/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2019/12/18/golang-gin-query-parameters-array-map.html</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
