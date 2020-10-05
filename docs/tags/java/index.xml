@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>java on 飞雪无情的博客</title>
-    <link>https://www.flysnow.org/tags/java/</link>
-    <description>Recent content in java on 飞雪无情的博客</description>
+    <title>java on 荒唐的博客</title>
+    <link>/tags/java/</link>
+    <description>Recent content in java on 荒唐的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.flysnow.org/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>https://www.flysnow.org/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
+      <link>/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
-      <guid>https://www.flysnow.org/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
+      <guid>/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     

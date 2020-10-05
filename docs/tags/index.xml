@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 飞雪无情的博客</title>
-    <link>https://www.flysnow.org/tags/</link>
-    <description>Recent content in Tags on 飞雪无情的博客</description>
+    <title>Tags on 荒唐的博客</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 荒唐的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.flysnow.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>golang</title>
-      <link>https://www.flysnow.org/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
       
-      <guid>https://www.flysnow.org/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
-      <link>https://www.flysnow.org/tags/java/</link>
+      <link>/tags/java/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
-      <guid>https://www.flysnow.org/tags/java/</guid>
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
